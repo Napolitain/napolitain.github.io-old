@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="38" column="73" selection-start-line="38" selection-start-column="73" selection-end-line="38" selection-end-column="73" />
+            <state relative-caret-position="831">
+              <caret line="60" column="116" selection-start-line="60" selection-start-column="116" selection-end-line="60" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -38,6 +38,14 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;[a-zA-Z/]+</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;[a-zA-Z/]+</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,7 +120,7 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,7 +156,7 @@
       <updated>1553701846109</updated>
       <workItem from="1553701848512" duration="987000" />
       <workItem from="1553702845868" duration="1685000" />
-      <workItem from="1553704540231" duration="1465000" />
+      <workItem from="1553704540231" duration="4534000" />
     </task>
     <task id="LOCAL-00001" summary="initial HTML5 Boilerplate">
       <created>1553702047761</created>
@@ -185,11 +193,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553704473061</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added profile picture">
+      <created>1553706839893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553706839894</updated>
+    </task>
+    <task id="LOCAL-00007" summary="formatting HTML better">
+      <created>1553707825748</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553707825748</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4137000" />
+    <option name="totallyTimeSpent" value="7206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -223,7 +245,9 @@
     <MESSAGE value="testing" />
     <MESSAGE value="testing HTML5 UP! Paradigm Shift" />
     <MESSAGE value="beginning adapting" />
-    <option name="LAST_COMMIT_MESSAGE" value="beginning adapting" />
+    <MESSAGE value="added profile picture" />
+    <MESSAGE value="formatting HTML better" />
+    <option name="LAST_COMMIT_MESSAGE" value="formatting HTML better" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/doc/js.md" />
@@ -233,13 +257,6 @@
     <entry file="file://$PROJECT_DIR$/site.webmanifest" />
     <entry file="file://$PROJECT_DIR$/404-old.html" />
     <entry file="file://$PROJECT_DIR$/404.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="38" column="73" selection-start-line="38" selection-start-column="73" selection-end-line="38" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="777">
@@ -247,6 +264,20 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="3526" column="22" lean-forward="true" selection-start-line="3526" selection-start-column="22" selection-end-line="3526" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="60" column="116" selection-start-line="60" selection-start-column="116" selection-end-line="60" selection-end-column="116" />
         </state>
       </provider>
     </entry>
