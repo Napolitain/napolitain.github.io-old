@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="99c5026c-a2f9-4a3a-98bf-2c4403051670" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="429">
+              <caret line="117" column="63" selection-start-line="117" selection-start-column="63" selection-end-line="117" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="813">
+              <caret line="2947" column="32" selection-start-line="2947" selection-start-column="32" selection-end-line="2947" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -43,6 +53,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -68,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,15 +118,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,7 +171,8 @@
       <workItem from="1553702845868" duration="1685000" />
       <workItem from="1553704540231" duration="4534000" />
       <workItem from="1553765245421" duration="5664000" />
-      <workItem from="1553783262080" duration="42000" />
+      <workItem from="1553783262080" duration="120000" />
+      <workItem from="1553871544881" duration="3731000" />
     </task>
     <task id="LOCAL-00001" summary="initial HTML5 Boilerplate">
       <created>1553702047761</created>
@@ -219,11 +237,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553771055940</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="title">
+      <created>1553783372388</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553783372388</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12912000" />
+    <option name="totallyTimeSpent" value="16721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -261,7 +286,8 @@
     <MESSAGE value="formatting HTML better" />
     <MESSAGE value="text" />
     <MESSAGE value="filling" />
-    <option name="LAST_COMMIT_MESSAGE" value="filling" />
+    <MESSAGE value="title" />
+    <option name="LAST_COMMIT_MESSAGE" value="title" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/doc/js.md" />
@@ -271,13 +297,6 @@
     <entry file="file://$PROJECT_DIR$/site.webmanifest" />
     <entry file="file://$PROJECT_DIR$/404-old.html" />
     <entry file="file://$PROJECT_DIR$/404.html" />
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="3526" column="22" lean-forward="true" selection-start-line="3526" selection-start-column="22" selection-end-line="3526" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="777">
@@ -320,10 +339,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="2947" column="32" selection-start-line="2947" selection-start-column="32" selection-end-line="2947" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="429">
+          <caret line="117" column="63" selection-start-line="117" selection-start-column="63" selection-end-line="117" selection-end-column="63" />
         </state>
       </provider>
     </entry>
