@@ -2920,7 +2920,7 @@ input, select, textarea {
 		.gallery a {
 			border-bottom: 0;
 			display: block;
-			margin: 1.25rem 0 0 1.25rem;
+			margin: 1.25rem 0 0 1.25rem; /* 30px... */
 			outline: 0;
 			position: relative;
 			width: calc(50% - 1.25rem);
@@ -2945,7 +2945,7 @@ input, select, textarea {
 
 				.gallery a.square img, video {
 					width: 100%;
-					height: 100%;
+					height: auto;
 				}
 
 			.gallery a.portrait img {
